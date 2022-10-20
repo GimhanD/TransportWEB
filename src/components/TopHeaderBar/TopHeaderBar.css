@@ -1,0 +1,48 @@
+.container {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(214, 207, 207);
+}
+
+.topHeaderBarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.sIcons {
+  display: flex;
+  flex-direction: row;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-left-color: rgb(214, 207, 207);
+  border-right-color: rgb(214, 207, 207);
+}
+.sIcon {
+  margin: 15px;
+}
+.contactCards {
+  display: flex;
+  flex-direction: row;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-left-color: rgb(214, 207, 207);
+  border-right-color: rgb(214, 207, 207);
+}
+
+.cardText {
+  padding-left: 20px;
+}

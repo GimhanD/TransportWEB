@@ -1,0 +1,16 @@
+.fContent {
+    margin-bottom: 50%;
+    margin-right: 55%;
+}
+
+.titleHeader {
+    color: rgb(79, 77, 77);
+    text-align: start;
+    font-weight: 720;
+    font-size: 65px;
+}
+
+.description {
+    margin-top: 20px;
+    text-align: left;  
+}

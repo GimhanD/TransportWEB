@@ -1,0 +1,24 @@
+.headerContainer {
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navItems{
+    display: flex;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.searchIcon {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
